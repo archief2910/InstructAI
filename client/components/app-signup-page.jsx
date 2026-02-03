@@ -10,13 +10,7 @@ import Link from 'next/link'
 
 // Initialize Firebase (replace with your config)
 const firebaseConfig = {
-  apiKey: "AIzaSyCigSdsYNyXeis55JDfTn2qtqb-yZgVJnM",
-  authDomain: "icecreamai.firebaseapp.com",
-  projectId: "icecreamai",
-  storageBucket: "icecreamai.appspot.com",
-  messagingSenderId: "729351344357",
-  appId: "1:729351344357:web:900a7a3894ff76f0db440c",
-  measurementId: "G-7Z7ZSLLR9J"
+
 }
 
 const app = initializeApp(firebaseConfig)
